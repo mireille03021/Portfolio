@@ -130,3 +130,7 @@ a:hover {
           flex: 0 0 300px;
 }
 /*# sourceMappingURL=stylesheet.css.map */
+#mySelf {
+  width: 400px;
+  height: 600px;
+}
